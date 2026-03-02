@@ -36,6 +36,12 @@ Exercício com Lista Simplesmente Encadeada (Linked List).
         make
         ```
 
+      Ou com Makefile:
+
+        ```bash
+        make build
+        ```
+
     * Windows (executando a partir de Windows):
         ```bash
         mkdir build && cd build
